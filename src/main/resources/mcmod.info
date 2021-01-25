@@ -1,0 +1,16 @@
+[
+{
+  "modid": "shadowcps",
+  "name": "ShadowCPS",
+  "description": "Guess what, it's a CPS GUI",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ShadowCube264"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
